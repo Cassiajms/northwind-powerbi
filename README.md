@@ -5,6 +5,12 @@ This project presents an interactive dashboard built with Power BI, based on the
 
 ---
 
+## 📸 Dashboard Preview
+
+![Northwind Dashboard Cover](./assets/Coverpage.png)
+
+---
+
 ## 📁 Data Model
 
 This star-schema data model includes:
@@ -69,13 +75,12 @@ The dashboard includes:
 📁 Northwind-PowerBI/
 │
 ├── 📄 README.md
-├── 📊 Northwind.pbix
-├── 🎨 tema-verde-profissional.json
+├── 📊 NorthWind_Report_Cassia.pbix
 ├── 📈 Northwind.xlsx
+├── 🎨 tema-northwind-business-clarity.json
 └── 🖼️ assets/
     ├── Coverpage.png
-    ├── background_northwind.png
-    
+    └── background_northwind.jpg
 ```
 
 ---
@@ -95,5 +100,8 @@ This dashboard can be used for:
 **Cássia Magalhães**  
 [LinkedIn](https://www.linkedin.com/in/cassiamagalhaes) • [Email](mailto:cassiacarvalho.pe@gmail.com)
 
-
 ---
+
+## 📄 License
+
+This project is released under the MIT License. See `LICENSE` for more information.
