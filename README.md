@@ -97,7 +97,3 @@ This dashboard can be used for:
 
 
 ---
-
-## 📄 License
-
-This project is released under the MIT License. See `LICENSE` for more information.
