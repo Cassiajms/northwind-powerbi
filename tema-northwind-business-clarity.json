@@ -1,0 +1,16 @@
+{
+    "name": "Northwind Business Clarity",
+    "dataColors": [
+        "#1A5276",
+        "#2ECC71",
+        "#E74C3C",
+        "#F39C12",
+        "#7D3C98",
+        "#566573",
+        "#85C1E9",
+        "#FAD7A0"
+    ],
+    "background": "#FAFAFA",
+    "foreground": "#000000",
+    "tableAccent": "#1A5276"
+}
