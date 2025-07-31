@@ -98,7 +98,9 @@ This dashboard can be used for:
 ## 👩 Author
 
 **Cássia Magalhães**  
-[LinkedIn](https://www.linkedin.com/in/cassiamagalhaes) • [Email](mailto:cassiacarvalho.pe@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cassiacarvalhoprofile)  
+- 💻 [GitHub](https://github.com/Cassiajms)
+
 
 ---
 
