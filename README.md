@@ -7,7 +7,7 @@ This project presents an interactive dashboard built with Power BI, based on the
 
 ## 📸 Dashboard Preview
 
-![Northwind Dashboard Cover](./assets/Coverpage.png)
+![Northwind Dashboard Cover](Coverpage.png)
 
 ---
 
