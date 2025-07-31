@@ -52,7 +52,6 @@ The dashboard includes:
   - `Gross Revenue`
   - `Net Revenue`
   - `YoY Growth`
-  - `Top N` Filters
   - `Calendar` table
 
 ---
