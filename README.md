@@ -95,9 +95,11 @@ This dashboard can be used for:
 
 ---
 
-## 👩 Author
+## 👩‍💻 Author
 
-**Cássia Magalhães**  
+Developed by **Cássia Magalhães** – Power BI & Data Analytics Portfolio  
+📅 July 2025  
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/cassiacarvalhoprofile)  
 - 💻 [GitHub](https://github.com/Cassiajms)
 
